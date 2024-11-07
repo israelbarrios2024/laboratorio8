@@ -1,15 +1,15 @@
 
 h1{
-    color: blue;
-    font-size: xx-small;
+    color: rgba(192, 16, 98, 0.199);
+    font-size:xx-large;
 }
 p{
-    color: aqua;
+    color: rgba(231, 74, 12, 0.76);
     font-family:'Courier New', Courier, monospace ;
 }
 img{
-    border: 6px;
+    border: 9px;
     border: snow;
-    border-color: darkslateblue;
+    border-color: rgb(33, 197, 33);
 }
 
